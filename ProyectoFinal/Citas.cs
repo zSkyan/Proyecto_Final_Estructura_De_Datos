@@ -23,5 +23,10 @@ namespace ProyectoFinal
             form1.Show();
             this.Hide();
         }
+        //ey jodjopjad//
+        private void Citas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
